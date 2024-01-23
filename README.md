@@ -13,7 +13,7 @@ I love creating interactive and user-friendly web experiences!</p>
 <p align="center">Get in touch with me on <a href="https://www.linkedin.com/in/kaczmarek-adrian-pl/">Linkedin</a> and send a pic of <img src="https://icons.iconarchive.com/icons/iconarchive/dogecoin-to-the-moon/512/Doge-icon.png" width="24px"></p>
 
 <h3 align="center">Skills:</h3>
-<img src="https://github.com/hustlehoff-dev/hustlehoff/blob/main/skills.png" alt="Tech stack" style="width:100%;">
+<img src="https://github.com/hustlehoff-dev/hustlehoff/blob/main/skills.png" alt="Tech stack" style="width:50%; margin:0 auto;">
 
 <h3 align="center">Experience in:</h3>
 <p align="center">🔍 SEO/Web Positioning 🔍</p>
