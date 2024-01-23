@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate developer from Poland</h3>
 
-### About Me
+<h3 align="center">About Me</h3>
 
 <p style="text-align:justify;">Hi! 👋 I'm Adrian, a passionate developer, SEO Ninja and investor from Poland. Former professional sales representative.
 I love creating interactive and user-friendly web experiences!</p>
