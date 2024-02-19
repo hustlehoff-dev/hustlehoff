@@ -25,6 +25,7 @@ I love creating interactive and user-friendly web experiences!</p>
 <p align="center">💰 Affiliate marketing 💸</p>
 <h3 align="center">Learning:</h3>
 <p align="center">-ReactJS and Typescript</p>
+<p align="center">-React Native</p>
 <p align="center">-NodeJS</p>
 <p align="center">-UI/UX Designs</p>
 <p align="center">-Marketing, content creation</p>
